@@ -5,6 +5,7 @@ Trong SEO hiện đại, việc chỉ tập trung tối ưu từ khóa riêng l�
 1. Topic Cluster là gì?
 
 >>Xem thêm: https://autoranker.net/topic-cluster/
+
 Topic Cluster là mô hình xây dựng nội dung website dựa trên một bài viết trụ cột (Pillar Content) và nhiều bài viết cụm (Cluster Content) xoay quanh chủ đề chính. Các bài viết này được kết nối với nhau thông qua internal link để tạo thành một cụm nội dung logic và toàn diện.
 
 Ví dụ:
